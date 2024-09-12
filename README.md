@@ -9,7 +9,7 @@ interação com um banco de dados **[NoSQL](https://aws.amazon.com/pt/nosql/)** 
 
 A criação das funcionalidades apresentadas estão conceituadas no paradigma de Orientação a Objetos. 
 Tratando-se dos dados representados na camada do banco de dados, estes tem sua estrutura de armazenamento 
-baseada no modelo de Collections e agregação de unidade.
+baseada no modelo de <i>Collections</i> e agregação de unidade.
 
 ## 💻 Tecnologias utilizadas
 ![Static Badge](https://img.shields.io/badge/JAVA-lang?style=for-the-badge&logo=java&logoSize=amg&color=black)
